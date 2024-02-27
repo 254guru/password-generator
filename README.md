@@ -20,14 +20,14 @@ This Python script serves as a simple yet effective tool for generating strong a
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/254guru/password-generator.git
     cd password-generator
     ```
 
 2. **Run the Script:**
     - Run the script by executing the following command in your terminal:
         ```bash
-        python password_generator.py
+        python password.py
         ```
     - Follow the prompts to specify the desired length of the password and provide a name for it.
 
